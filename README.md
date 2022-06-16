@@ -1,3 +1,6 @@
+# casbin-rbac-nestjs-sample
+[casbin-rbac-go-sample](https://github.com/DevilsTear/casbin-rbac-go-sample)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
